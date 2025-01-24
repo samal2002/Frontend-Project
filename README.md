@@ -25,7 +25,7 @@ Clone the repository:
 bash
 Copy
 Edit
-git clone https://github.com/your-username/movie-app.git
+git clone https://github.com/your-samal2002/movie-app.git
 Navigate to the project directory:
 bash
 Copy
@@ -38,6 +38,7 @@ Add screenshots of your app for a better presentation (if applicable). Here’s 
 markdown
 Copy
 Edit
+![image](https://github.com/user-attachments/assets/cb435096-baf1-4ab3-8936-dffb4acde7e4)
 
 
 📖 Learnings
