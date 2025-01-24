@@ -38,7 +38,8 @@ Add screenshots of your app for a better presentation (if applicable). Here’s 
 markdown
 Copy
 Edit
-![Movie App Screenshot](https://via.placeholder.com/800x400.png?text=Add+Your+App+Screenshot+Here)
+![image](https://github.com/user-attachments/assets/4965511f-8d37-4418-ae00-965a0f45afa8)
+
 📖 Learnings
 While building this project, I gained experience in:
 
@@ -63,8 +64,8 @@ Your Name: Gourav Ranjan Samal
 LinkedIn
 GitHub
 📧 Feedback
-If you have any feedback, feel free to reach out at your-email@example.com. I'd love to hear your suggestions!
+If you have any feedback, feel free to reach out at your-gouravranjansamal@gmail.com. I'd love to hear your suggestions!
 
 📝 Note
-Replace placeholders like your-username, your-email@example.com, and live demo links with your actual details.
+Replace placeholders like your-samal2002, your-gouravranjansamal@gmail.com, and live demo links with your actual details.
 
