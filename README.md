@@ -38,7 +38,7 @@ Add screenshots of your app for a better presentation (if applicable). Here’s 
 markdown
 Copy
 Edit
-![image](https://github.com/user-attachments/assets/4965511f-8d37-4418-ae00-965a0f45afa8)
+
 
 📖 Learnings
 While building this project, I gained experience in:
